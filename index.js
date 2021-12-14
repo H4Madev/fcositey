@@ -648,4 +648,4 @@ client.on("message", msg => {
     msg.channel.send("🔓 | All Channels Unlocked");
   }
 });
-client.login("");
+client.login("OTIwMjM2NzY2ODA2NTQwMzM4.YbhbRg.eHRp9ChrWBaBvwqRUrdJZNnQdX8");
